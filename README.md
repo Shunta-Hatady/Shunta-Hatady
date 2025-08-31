@@ -1,6 +1,6 @@
 ## Hi I`m Shunta! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Shunta-Hatady=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiShunta-Hatady=anuraghazra&hide=contribs,prs)
 
 
 
