@@ -1,5 +1,5 @@
 ## Hi I`m Shunta! 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+[![Shunta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shunta-Hatady)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
