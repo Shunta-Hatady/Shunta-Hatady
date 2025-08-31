@@ -20,3 +20,8 @@ Focus on sensors, signal processing, and data analysis to create accurate indoor
 - [GitHub](https://github.com/Shunta-Hatady)  
 ---
 [![Shunta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shunta-Hatady)](https://github.com/anuraghazra/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shunta-Hatady&layout=compact)
+
+![](https://raw.githubusercontent.com/Shunta-Hatady/Shunta-Hatady/output/github-contribution-grid-snake.svg)
+
+
+
