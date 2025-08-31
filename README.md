@@ -4,10 +4,6 @@
 - ⚡ Major in Electrical and Electronic Engineering  
 - 🧪 Passionate about my **graduation research**: human **position estimation** using electrical & IT technologies  
 - 🎶 Big fan of **ARASHI** – Japanese superstar idol group!
-
-[![Shunta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shunta-Hatady)](https://github.com/anuraghazra/github-readme-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shunta-Hatady&layout=compact)
-
 ---
 
 ### 🔬 Graduation Research
@@ -23,5 +19,5 @@ Focus on sensors, signal processing, and data analysis to create accurate indoor
 ### 📫 How to reach me
 - [GitHub](https://github.com/Shunta-Hatady)  
 ---
-
-> "Learning is a journey, not a race." 🚀
+[![Shunta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shunta-Hatady)](https://github.com/anuraghazra/github-readme-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shunta-Hatady&layout=compact)
