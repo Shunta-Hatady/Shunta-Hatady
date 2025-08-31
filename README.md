@@ -19,5 +19,4 @@ Focus on sensors, signal processing, and data analysis to create accurate indoor
 ### 📫 How to reach me
 - [GitHub](https://github.com/Shunta-Hatady)  
 ---
-[![Shunta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shunta-Hatady)](https://github.com/anuraghazra/github-readme-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shunta-Hatady&layout=compact)
+[![Shunta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shunta-Hatady)](https://github.com/anuraghazra/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shunta-Hatady&layout=compact)
